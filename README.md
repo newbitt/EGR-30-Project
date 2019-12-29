@@ -1,5 +1,5 @@
 # EGR-30-Project
-Scanning Game Simulation
+Scanning Game Simulation (SOLO Project)
 
 Project Summary
 Inputs:
